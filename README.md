@@ -50,3 +50,9 @@ Todo o fluxo do projeto está concentrado no notebook, desde o carregamento dos 
 ├── DetecçãodePneumoniaemRadiografias.ipynb   # Notebook principal do projeto
 └── README.md                                 # Documentação do projeto
 ```
+
+## Demonstração Online (Hugging Face)
+
+Você pode testar o modelo em tempo real através do link:
+
+🚀 [Testar o modelo no Hugging Face Spaces](https://huggingface.co/spaces/vitateje/Pneumonia)
